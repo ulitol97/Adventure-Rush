@@ -58,10 +58,10 @@ class GameLayer extends Layer {
 
 
 
-        this.botonSalto = new Boton(imagenes.boton_salto,canvasInitialWidth*0.10,canvasInitialHeight*0.55);
-        this.botonDesliz = new Boton(imagenes.boton_desliz,canvasInitialWidth*0.23,canvasInitialHeight*0.8);
-        this.botonAtaque = new Boton(imagenes.boton_espada,canvasInitialWidth*0.75,canvasInitialHeight*0.83);
-        this.botonOnda = new Boton(imagenes.boton_onda,canvasInitialWidth*0.88,canvasInitialHeight*0.58);
+        this.botonSalto = new Boton(imagenes.boton_salto,canvasInitialWidth*0.04,canvasInitialHeight*0.65);
+        this.botonDesliz = new Boton(imagenes.boton_desliz,canvasInitialWidth*0.04,canvasInitialHeight*0.8);
+        this.botonAtaque = new Boton(imagenes.boton_espada,canvasInitialWidth*0.93,canvasInitialHeight*0.8);
+        this.botonOnda = new Boton(imagenes.boton_onda,canvasInitialWidth*0.96,canvasInitialHeight*0.62);
         this.botonPausa = new Boton(imagenes.boton_pausa, canvasInitialWidth*0.05, canvasInitialHeight*0.1);
 
 
