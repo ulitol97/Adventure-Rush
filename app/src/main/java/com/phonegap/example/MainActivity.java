@@ -20,6 +20,10 @@
 package com.phonegap.example;
 
 import android.os.Bundle;
+import android.view.View;
+import android.view.WindowManager;
+import android.webkit.WebView;
+
 import org.apache.cordova.*;
 
 public class MainActivity extends CordovaActivity
@@ -28,6 +32,16 @@ public class MainActivity extends CordovaActivity
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN,
+                WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON,
+                WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+
+
+        View decorView = getWindow().getDecorView();
+        decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LOW_PROFILE);
 
         // enable Cordova apps to be started in the background
         Bundle extras = getIntent().getExtras();
@@ -37,5 +51,14 @@ public class MainActivity extends CordovaActivity
 
         // Set by <content src="index.html" /> in config.xml
         loadUrl(launchUrl);
+
+
+    }
+
+    @Override
+    public void onPause(){
+        super.onPause();
+
+
     }
 }
