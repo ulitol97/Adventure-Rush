@@ -19,6 +19,8 @@
 
 package com.phonegap.example;
 
+import android.content.Context;
+import android.media.AudioManager;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
@@ -28,6 +30,10 @@ import org.apache.cordova.*;
 
 public class MainActivity extends CordovaActivity
 {
+
+    AudioManager audioManager;
+    View webView;
+
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
@@ -36,12 +42,17 @@ public class MainActivity extends CordovaActivity
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN,
                 WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN);
+
+
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON,
                 WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
 
         View decorView = getWindow().getDecorView();
         decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LOW_PROFILE);
+
+        audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+
 
         // enable Cordova apps to be started in the background
         Bundle extras = getIntent().getExtras();
@@ -56,8 +67,19 @@ public class MainActivity extends CordovaActivity
     }
 
     @Override
-    public void onPause(){
-        super.onPause();
+    public void onRestart(){
+        super.onRestart();
+
+        audioManager.setStreamMute(AudioManager.STREAM_MUSIC, false);
+
+
+
+    }
+
+    @Override
+    public void onStop(){
+        super.onStop();
+        audioManager.setStreamMute(AudioManager.STREAM_MUSIC, true);
 
 
     }

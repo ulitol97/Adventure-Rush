@@ -47,6 +47,7 @@ var imagenes = {
     mensaje_como_jugar_3 : "res/Assets/Menu/Ayuda/mensaje_como_jugar_3.png",
     mensaje_como_jugar_4 : "res/Assets/Menu/Ayuda/mensaje_como_jugar_4.png",
     mensaje_como_jugar_5 : "res/Assets/Menu/Ayuda/mensaje_como_jugar_5.png",
+    mensaje_creditos : "res/Assets/Menu/Ayuda/creditos.png",
     mensaje_ganar : "res/Assets/Menu/mensaje_ganar.png",
     mensaje_perder : "res/Assets/Menu/mensaje_perder.png",
     mensaje_final : "res/Assets/Menu/mensaje_final.png",
