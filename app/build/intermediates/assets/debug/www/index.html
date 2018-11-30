@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: 'unsafe-inline' https://ssl.gstatic.com; style-src 'self' 'unsafe-inline'; media-src *" />
+
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+
+    <title>Adventure Rush!</title>
+    <style>
+        * { padding: 0; margin: 0; }
+        canvas {
+            background: #eee;
+            display: block;
+            margin: 0 auto;
+
+        }
+    </style>
+</head>
+<body>
+<div class="app">
+
+    <canvas id="canvas" width="568" height="320"></canvas>
+
+    <script src="src/Res.js"></script>
+    <script src="src/Espacio.js"></script>
+    <script src="src/GestorAudio.js"></script>
+    <script src="src/modelos/texto/Texto.js"></script>
+    <script src="src/modelos/texto/textoOndas.js"></script>
+    <script src="src/modelos/texto/TextoMonedas.js"></script>
+    <script src="src/modelos/texto/TextoDescripcion.js"></script>
+    <script src="src/modelos/texto/TextoPausa.js"></script>
+
+
+    <script src="src/modelos/Modelo.js"></script>
+    <script src="src/modelos/Boton.js"></script>
+    <script src="src/modelos/Bloque.js"></script>
+    <script src="src/modelos/PlataformaSalto.js"></script>
+    <script src="src/modelos/Moneda.js"></script>
+    <script src="src/modelos/Meta.js"></script>
+    <script src="src/modelos/OndaJugador.js"></script>
+    <script src="src/modelos/enemigos/Enemigo.js"></script>
+    <script src="src/modelos/enemigos/enemigo_ogro.js"></script>
+    <script src="src/modelos/ProyectilOgro.js"></script>
+    <script src="src/modelos/enemigos/enemigo_gargola.js"></script>
+    <script src="src/modelos/Jugador.js"></script>
+    <script src="src/modelos/Fondo.js"></script>
+    <script src="src/modelos/FondoTitle.js"></script>
+    <script src="src/modelos/PowerUps/PowerUp.js"></script>
+    <script src="src/modelos/PowerUps/PowerUpIman.js"></script>
+    <script src="src/modelos/PowerUps/PowerUpStar.js"></script>
+    <script src="src/modelos/PowerUps/PowerUpAmmo.js"></script>
+
+
+    <script src="src/layers/Layer.js"></script>
+    <script src="src/layers/MenuLayer.js"></script>
+    <script src="src/layers/GameLayer.js"></script>
+
+    <script src="src/Eventos/EventosPulsacion.js"></script>
+    <script src="src/Eventos/EventosTeclado.js"></script>
+    <script src="src/Eventos/EventosGamepad.js"></script>
+    <script src="Main.js"></script>
+    <script src="src/graficos/Animacion.js"></script>
+
+    <script src="src/Globales.js"></script>
+	<script type="text/javascript" src="cordova.js"></script>
+        
+</div>
+
+</body>
+</html>

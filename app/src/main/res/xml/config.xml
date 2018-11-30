@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.example" version="1.0.0" versionCode="10" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Adventure Rush!</name>
+    <description>
+      Side scrolling adventure runner game.
+  </description>
+    <author>
+      Ragna
+  </author>
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+    <preference name="android-minSdkVersion" value="21" />
+</widget>

@@ -1,0 +1,19 @@
+#Fri Nov 30 19:59:01 CET 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50
+base.4=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53
+base.3=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52
+base.2=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\55
+base.1=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54
+base.0=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex
