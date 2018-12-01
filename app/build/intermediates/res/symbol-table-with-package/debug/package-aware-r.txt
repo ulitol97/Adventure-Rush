@@ -1,4 +1,4 @@
-com.phonegap.example
+com.ragna.adventure
 int drawable ic_launcher_background 0x7f010000
 int drawable screen 0x7f010001
 int mipmap ic_launcher 0x7f020000

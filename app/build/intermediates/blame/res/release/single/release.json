@@ -1,39 +1,83 @@
 [
     {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-mdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_icon.png.flat",
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
-    },
-    {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-hdpi_screen.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
-    },
-    {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-ldpi_screen.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
-    },
-    {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_icon.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
-    },
-    {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_icon.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
-    },
-    {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\xml_config.xml.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
     },
     {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-xxhdpi_screen.png.flat",
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
     },
     {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-hdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon.png.flat",
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
     },
     {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xxxhdpi_screen.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-xhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-hdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xxhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-xxxhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xxhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
     },
     {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xhdpi_screen.png.flat",
@@ -44,16 +88,88 @@
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
     },
     {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-ldpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-xxxhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-hdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xxxhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xxxhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-hdpi_screen.png.flat",
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
     },
     {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-xxhdpi_screen.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
-    },
-    {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-xhdpi_screen.png.flat",
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi_screen.png.flat",
@@ -64,15 +180,71 @@
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
     },
     {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\xml_config.xml.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-ldpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-xxhdpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_icon.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\xml_config.xml.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-port-ldpi_screen.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
         "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_icon.png.flat",
         "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
-    },
-    {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-xxxhdpi_screen.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
-    },
-    {
-        "merged": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_icon.png.flat",
-        "source": "D:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush_Production\\Phone_Gap_Project\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
     }
 ]
