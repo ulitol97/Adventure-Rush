@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="28"
+    abi="x86"
+    api-level="22"
     build-mode="FULL"
-    density="420dpi"
+    density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1543606657473"
+    timestamp="1543659183597"
     token="4661366817772873194"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -24,40 +24,16 @@
         duration="0" />
 
     <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\outputs\apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -72,7 +48,19 @@
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -81,51 +69,39 @@
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
         location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
+    <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1543606657473"
+        timestamp="1543659183597"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -140,7 +116,19 @@
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -149,11 +137,23 @@
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush_Production\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
+        <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

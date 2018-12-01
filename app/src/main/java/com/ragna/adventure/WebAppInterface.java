@@ -1,4 +1,4 @@
-package com.phonegap.example;
+package com.ragna.adventure;
 
 import android.content.Context;
 import android.webkit.JavascriptInterface;

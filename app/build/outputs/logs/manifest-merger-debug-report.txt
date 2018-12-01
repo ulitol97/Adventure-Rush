@@ -9,7 +9,7 @@ INJECTED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Pro
 INJECTED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
 INJECTED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
 	package
-		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:102-132
+		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:102-131
 		INJECTED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -19,7 +19,7 @@ INJECTED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Pro
 	android:hardwareAccelerated
 		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:133-191
+		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:132-190
 	android:versionCode
 		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
 		INJECTED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml
@@ -52,7 +52,7 @@ ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Projec
 		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
 	android:icon
 		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
-activity#com.phonegap.example.MainActivity
+activity#com.ragna.adventure.MainActivity
 ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:6:9-15:20
 	android:screenOrientation
 		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:8:13-50
@@ -69,7 +69,7 @@ ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Projec
 	android:theme
 		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:7:13-86
 	android:name
-		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:6:166-213
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:11:13-14:29
 	android:label

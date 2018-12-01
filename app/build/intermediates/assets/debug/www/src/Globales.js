@@ -37,11 +37,11 @@ var saltoMuelle = -14;
 // espada
 var numeroDeEspadas = 5;
 var espadaEquipada = imagenes.espada_0;
-var descripcionesEspadas = ["Una espada metálica simple, sin nada que destacar",
-    "Su brillo te da vitalidad, aguanta un toque contra un enemigo sin morir",
-    "Una hoja sedienta de sangre, tus ataques se verán mejorados aleatoriamente",
-    "El místico azul aumenta tu capacidad de atacar a distancia",
-    "Un grácil estoque para moverse con mayor soltura"];
+var descripcionesEspadas = ["Just a simple steel sword with nothing in particular",
+    "Its brightness gives you vitality, resist an additional attack without dying",
+    "Its bloodlust edge will randomly grant you powered up attacks",
+    "The mystic blue coming from the blade increases your range attacks ammo",
+    "A swift rapier that allows quicker maneuvers"];
 
 // jugador
 var margenYChoque = 28;

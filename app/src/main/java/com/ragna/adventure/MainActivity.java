@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.phonegap.example;
+package com.ragna.adventure;
 
 import android.content.Context;
 import android.media.AudioManager;
