@@ -69,7 +69,7 @@ ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Projec
 	android:theme
 		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:7:13-86
 	android:name
-		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:6:166-194
+		ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:6:166-213
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from D:\Eduardo\Documents\Uni\Local\4o\SEV\Adventure_Rush\Phone_Gap_Project\platforms\android\app\src\main\AndroidManifest.xml:11:13-14:29
 	android:label

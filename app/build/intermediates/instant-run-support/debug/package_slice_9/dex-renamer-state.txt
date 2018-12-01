@@ -1,4 +1,4 @@
-#Sat Dec 01 11:29:31 CET 2018
-base.0=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\143
+#Sat Dec 01 11:05:32 CET 2018
+base.0=D\:\\Eduardo\\Documents\\Uni\\Local\\4o\\SEV\\Adventure_Rush\\Phone_Gap_Project\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\124
 path.0=classes.dex
 renamed.0=classes.dex

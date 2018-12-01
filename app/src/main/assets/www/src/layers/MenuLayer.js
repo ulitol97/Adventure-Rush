@@ -15,9 +15,7 @@ class MenuLayer extends Layer {
         this.mensajesAyuda.push(new Boton(imagenes.mensaje_como_jugar_0, canvasInitialWidth/2, canvasInitialHeight/2));
         this.mensajesAyuda.push(new Boton(imagenes.mensaje_como_jugar_1, canvasInitialWidth/2, canvasInitialHeight/2));
         this.mensajesAyuda.push(new Boton(imagenes.mensaje_como_jugar_2, canvasInitialWidth/2, canvasInitialHeight/2));
-        this.mensajesAyuda.push(new Boton(imagenes.mensaje_como_jugar_3, canvasInitialWidth/2, canvasInitialHeight/2));
         this.mensajesAyuda.push(new Boton(imagenes.mensaje_como_jugar_4, canvasInitialWidth/2, canvasInitialHeight/2));
-        this.mensajesAyuda.push(new Boton(imagenes.mensaje_como_jugar_5, canvasInitialWidth/2, canvasInitialHeight/2));
         this.mensajesAyuda.push(new Boton(imagenes.mensaje_creditos, canvasInitialWidth/2, canvasInitialHeight/2));
 
         this.botonesEspadas = [];
