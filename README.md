@@ -3,6 +3,10 @@ Simple javascript game ported to Android with Apache Cordova.
 
 Keep running as you avoid obstacles and enemies in this 2D action platform game.
 
+## Play
+Browser: [https://ulitol97.itch.io/adventure-rush](https://ulitol97.itch.io/adventure-rush)  
+Android: [https://play.google.com/store/apps/details?id=com.ragna.adventure](https://play.google.com/store/apps/details?id=com.ragna.adventure)
+
 ## Screenshots
 
 ![a](https://user-images.githubusercontent.com/35763574/67440731-72503900-f5fa-11e9-956a-4a35627369a4.png)
